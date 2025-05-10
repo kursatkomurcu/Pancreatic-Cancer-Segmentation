@@ -1,5 +1,7 @@
 # Pancreatic-Cancer-Segmentation
 
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kursatkomurcu)
+
 ## Introduction
 
 Pancreatic cancer is a devastating disease with a high mortality rate, making early detection and
