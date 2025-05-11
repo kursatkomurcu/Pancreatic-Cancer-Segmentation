@@ -1,6 +1,14 @@
 # Pancreatic-Cancer-Segmentation
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kursatkomurcu)
+<p align="left">
+  <a href="https://www.buymeacoffee.com/kursatkomurcu">
+    <img
+      src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+      alt="Buy Me A Coffee"
+      width="200"
+    />
+  </a>
+</p>
 
 ## Introduction
 
